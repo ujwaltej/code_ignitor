@@ -1,6 +1,6 @@
+package week2;
 /*Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
-*/package week2;
-
+*/
 public class SumSquares {
 
 	public static void main(String[] args) {

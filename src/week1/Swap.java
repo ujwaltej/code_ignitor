@@ -1,7 +1,7 @@
-/*swapping the inputs*/
 package week1;
 
 import java.util.Scanner;
+/*swapping the inputs*/
 
 public class Swap {
 

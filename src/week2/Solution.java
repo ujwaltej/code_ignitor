@@ -1,5 +1,5 @@
-/**///using inheritance concept extending properties of Animal class in Bird class
 package week2;
+//using inheritance concept extending properties of Animal class in Bird class
 
 public class Solution {
 	public static void main(String[] args) {

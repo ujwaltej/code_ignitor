@@ -1,7 +1,8 @@
-/*Write program to find the fibbonaci sequence  for a given number by iterative */package week1;
+package week1;
 
 import java.util.Scanner;
 
+/*Write program to find the fibbonaci sequence  for a given number by iterative */
 public class Febonacci {
 
 	public static void main(String[] args) {

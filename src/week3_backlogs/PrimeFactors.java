@@ -1,6 +1,7 @@
+package week3_backlogs;
 /*The prime factors of 13195 are 5, 7, 13 and 29.
 What is the largest prime factor of the number 600851475143 ?
-*/package week3_backlogs;
+*/
 
 public class PrimeFactors {
 	public static void main(String[] args) {

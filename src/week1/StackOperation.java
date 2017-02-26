@@ -1,7 +1,7 @@
-/*Stack push Operation*/
 package week1;
 
 import java.util.*;
+/*Stack push Operation*/
 
 public class StackOperation {
 

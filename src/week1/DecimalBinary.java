@@ -1,8 +1,8 @@
-/*convert the given decimal to binary*/
 package week1;
 
 import java.util.Scanner;
 import java.util.*;
+/*convert the given decimal to binary*/
 
 public class DecimalBinary {
 	public static void main(String[] args) {
@@ -19,9 +19,9 @@ public class DecimalBinary {
 		while (!(stack.isEmpty())) {
 			int b = stack.pop();
 			System.out.println(b);
-		
-		scan.close();
+
+			scan.close();
 		}
-		}
+	}
 
 }

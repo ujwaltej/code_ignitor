@@ -1,5 +1,5 @@
-/*Overriding concept*/
 package week2;
+/*Overriding concept*/
 
 class Sports {
 	String getName() {

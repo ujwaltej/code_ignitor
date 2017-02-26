@@ -1,7 +1,8 @@
-/*Write program to find the febonacci sequence  for a given number with recursive*/package week1;
+package week1;
 
 import java.util.Scanner;
 
+/*Write program to find the febonacci sequence  for a given number with recursive*/
 public class FebonacciWithRecursive {
 	Scanner scan = new Scanner(System.in);
 	int input1 = scan.nextInt();

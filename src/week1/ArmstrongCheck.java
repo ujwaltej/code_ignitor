@@ -1,7 +1,7 @@
-/*finding whether the given number is a Armstrong Number*/
 package week1;
 
 import java.util.*;
+/*finding whether the given number is a Armstrong Number*/
 
 public class ArmstrongCheck {
 

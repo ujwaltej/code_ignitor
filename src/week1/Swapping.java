@@ -1,7 +1,8 @@
-/*write a program to swap two given numbers, with and without temporary variable*/package week1;
+package week1;
 
 import java.util.Scanner;
 
+/*write a program to swap two given numbers, with and without temporary variable*/
 public class Swapping {
 	public static void main(String[] args) {
 		System.out.println("give an input1:");
