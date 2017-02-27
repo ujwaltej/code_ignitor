@@ -1,5 +1,5 @@
-/*guess the first day in 2000*/
 package week2;
+/*guess the first day in 2000*/
 
 public class GuessSunday {
 	public static void main(String[] args) {

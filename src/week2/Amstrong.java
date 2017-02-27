@@ -1,7 +1,7 @@
-/*find the armstrong numbers upto given range*/
 package week2;
 
 import java.util.Scanner;
+/*find the armstrong numbers upto given range*/
 
 public class Amstrong {
 	public static void main(String[] args) {

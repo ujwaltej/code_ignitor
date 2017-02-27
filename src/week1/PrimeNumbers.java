@@ -1,5 +1,5 @@
-/*find all prime numbers upto 10000*/
 package week1;
+/*find all prime numbers upto 10000*/
 
 public class PrimeNumbers {
 

@@ -1,8 +1,9 @@
-/*determine if given string is palindrome*/
+
 package week2;
 
 import java.util.Scanner;
 
+/*determine if given string is palindrome*/
 public class palindrome {
 	public static void main(String[] args) {
 

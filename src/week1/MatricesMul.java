@@ -1,6 +1,6 @@
+package week1;
 /*perform Matrix operations on matrices A & B
  * Matrix Multiplication*/
-package week1;
 
 public class MatricesMul {
 	public static void main(String[] args) {

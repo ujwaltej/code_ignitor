@@ -1,7 +1,7 @@
-/*Build a pascal triangle for a level n*/
 package week1;
 
 import java.util.Scanner;
+/*Build a pascal triangle for a level n*/
 
 public class Pascal {
 
